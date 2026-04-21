@@ -1,6 +1,6 @@
 # All Restaurants in Alexandria, Virginia, US
 
-> Free BeamStation sample export with 149 rows and masked direct-contact fields.
+> Free BeamStation sample export with 141 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `239380` |
 | Location | Alexandria |
 | Category | Restaurants |
-| Full dataset size | 1,498 records |
-| Free sample size | 149 records (9.95%) |
-| Last export | 2026-04-14T12:31:21.969242+00:00 |
+| Full dataset size | 1,416 records |
+| Free sample size | 141 records (9.96%) |
+| Last export | 2026-04-21T13:15:02.988840+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-alexandria-virginia-us-sample-239380/releases/download/sample-latest/beamstation_239380_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
