@@ -1,12 +1,12 @@
 {
-  "export_job_id": "812819e0-807c-4d7d-a520-42113295e307",
+  "export_job_id": "3f8eae5f-60ba-4f2a-a138-0f9eebf3d4ba",
   "id_short": 239380,
-  "published_at": "2026-04-28T19:14:27Z",
+  "published_at": "2026-05-06T07:03:26Z",
   "repo_name": "all-restaurants-in-alexandria-virginia-us-sample-239380",
   "sample_asset_name": "beamstation_239380_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/239380/beamstation_239380_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 132,
-  "sample_sha256": "80f3240cf2b5706306ec7f2cc3b125a7f41d899bb1c5a8165c555e0c4a89074e",
-  "sample_size_bytes": 497676,
-  "total_records": 1324
+  "sample_records": 151,
+  "sample_sha256": "d01cf7a1598c3d4560d2f0a5171592092440b0203b9eda420ffecaa2ada61342",
+  "sample_size_bytes": 571497,
+  "total_records": 1514
 }
